@@ -1,4 +1,4 @@
-## Steps to deploy Storage account arm template:
+# Steps to deploy Storage account arm template:
 
 Step 1
 # Create resource Group
